@@ -71,7 +71,7 @@ body {
        <Font face="Play" size='5'>450 clients</Font></div>
        </div>
        
-       
+      
   </div>
   <h2>Nombre de clients en temps réel</h2>
   <div>
