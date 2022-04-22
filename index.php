@@ -2,7 +2,6 @@
 <html lang="en">
 
 <?php include("php/header.php") ?>
-  
 <body>
 
 <style>
