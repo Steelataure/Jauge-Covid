@@ -1,2 +1,2 @@
-*.rb linguist-language=PHP
+*.scss linguist-language=PHP
 *.sql linguist-detectable=true
