@@ -1,6 +1,6 @@
 # Jauge-Covid
 
-Système de jauge covid permettant de visualiser et restreindre le nombre de clients en magasin conformément aux règles de la crise sanitaire  
+Système de jauge covid permettant de réguler le nombre de clients en magasin conformément aux règles de la crise sanitaire  
 Disponible directement ici : https://dev-sandbox.ovh/jauge/
 
 
